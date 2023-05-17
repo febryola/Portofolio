@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-<img width="1266" alt="Screen Shot 2022-06-19 at 2 18 18 PM" src="assets/img/readme.png">
+<img width="1266" alt="Landing Page" src="src/assets/img/readme.png">
 
 Built using:
 
@@ -10,7 +10,7 @@ Built using:
 - CSS framework: React-bootstrap
 - CSS animations library: Animate.css
 
-In the /personal-portfolio, you can run:
+In the /Portfolio, you can run:
 
 ### `npm start`
 
