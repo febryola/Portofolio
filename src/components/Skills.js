@@ -33,7 +33,7 @@ export const Skills = () => {
                 <div className="col-12">
                     <div className="skill-bx wow zoomIn">
                         <h2>Skills</h2>
-                        <p>Proficient in HTML, CSS, and JavaScript for creating visually appealing and responsive web pages.<br></br>  Skilled in utilizing front-end frameworks like React or Angular to build dynamic and interactive user interfaces.</p>
+                        <p>Proficient in frontend and backend web development, utilizing frameworks such as React, Vue.js, Angular, PHP Laravel, Node.js, Next.js, and more. Skilled in HTML, CSS, and JavaScript for creating visually appealing and responsive web pages, and experienced in building dynamic and interactive user interfaces. Additionally, experienced in data manipulation and analysis using Python or R for data science tasks, implementing machine learning algorithms for predictive modeling, and developing mobile applications for iOS and Android platforms using languages like Swift or Java/Kotlin. Proficient in software engineering principles, utilizing programming languages like Java, C++, or C# to design, develop, and test robust software systems.</p>
                         <Carousel responsive={responsive} infinite={true} className="owl-carousel owl-theme skill-slider">
                             <div className="item">
                                 <img src={meter1} alt="Frontend Developmet" />
